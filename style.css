@@ -1,0 +1,55 @@
+body{
+    background-image: url("https://lefrenchdenver.com/wp-content/uploads/2019/04/Le-French-Cafe-and-Bistro-Denver-Le-French-Interior-Photo-3-1.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top: 100px;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+}
+h1.img_center{
+    text-align: center;
+    margin: 250px 200px 187px 200px;
+}
+.header li{
+    list-style: none;
+    padding: 20px 30px 20px 30px;
+    color: rgb(255, 255, 255);
+    font-family: 'MS Mincho';
+    border-radius: 35px;
+}
+.header ul{
+    display: flex;
+    float:right;
+    padding-right: 40px;
+}
+
+.headerlogo{
+    float: left;
+    padding: 5px;
+}
+.header{
+    display: block;
+    height: 100px;
+    background-color: black;
+    position:fixed;
+    top:0;
+    left:0;
+    width: 1365.5px;
+}
+.footer{
+    background-color: black;
+    height: 20px;
+    width: 1365.5px;
+}
+
+.headerlist a{
+    color: white;
+    text-decoration: none;
+}
+.headerlist li:hover{
+background: linear-gradient( #0f0789, #030034);
+}
+#now{
+    background-color: #42424f;
+}
